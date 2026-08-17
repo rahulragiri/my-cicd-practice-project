@@ -1,1 +1,1 @@
-# my-project
+# my-cicd-practice-project
